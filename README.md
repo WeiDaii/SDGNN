@@ -2,6 +2,6 @@
 
 We have debugged the SDGNN model with linear GCN and GNN, so there are no deletions of GCN and GNN.
 
-Finally, this is the core code of SDGNN, and the rest of the code will be uploaded after employment.
+Finally, this represents the core implementation of SDGNN, while the remaining code will be gradually uploaded upon acceptance.
 
 # Coming Soon
